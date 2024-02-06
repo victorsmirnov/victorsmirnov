@@ -42,11 +42,12 @@ The services have automated CI/CD pipelines and monitoring dashboards in AWS Clo
 Victor started supporting company infrastructure in the AWS Cloud with all resources created manually in the AWS Console. In five years, Victor completed the following DevOps tasks.
 
 Victor migrated all AWS resources to the CDK template. The same CDK template creates staging and production environments, allowing testing configuration changes on the staging.
-Victor migrated all company websites from the EC2 instances to docker containers.
-Victor developed CI/CD pipelines for the company applications.
-Victor migrated the monolith application from PHP 5.5 to PHP 7.4.
-Victor developed CDK scripts for several new projects, including WordPress with custom plugins and NodeJs REST API. He also helped to create a standard CDK template for the TypeScript REST API application running in the AWS Elastic Container Service.
-Victor moved some AWS services to a different AWS account because of the business decision to spin off a non-primary business.
+
+* Victor migrated all company websites from the EC2 instances to docker containers.
+* Victor developed CI/CD pipelines for the company applications.
+* Victor migrated the monolith application from PHP 5.5 to PHP 7.4.
+* Victor developed CDK scripts for several new projects, including WordPress with custom plugins and NodeJs REST API. He also helped to create a standard CDK template for the TypeScript REST API application running in the AWS Elastic Container Service.
+* Victor moved some AWS services to a different AWS account because of the business decision to spin off a non-primary business.
 
 ## Work Experience
 
