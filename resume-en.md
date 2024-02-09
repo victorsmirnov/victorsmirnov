@@ -1,9 +1,9 @@
-# Victor Smirnov
+# Victor Smirnov Resume
 ## Full Stack developer
 
 ## Overview
 
-Victor has vast experience in the back-end (NodeJs and TypeScript, PHP and GoLang), front-end (React stack) development, and DevOps for the AWS Cloud. He worked in distributed multilingual teams as a software architect, developer and DevOps. In his work, Victor follows coding standards, writes tests for the code and, in general, likes the TDD approach. In addition, Victor is familiar with standard software development processes and knows how to write documentation.
+Victor has vast experience in the back-end (NodeJs and TypeScript, Java, PHP, and GoLang), front-end (React stack) development, and DevOps for the AWS Cloud. He worked in distributed multilingual teams as a software architect, developer and DevOps. In his work, Victor follows coding standards, writes tests for the code and, in general, likes the TDD approach. In addition, Victor is familiar with standard software development processes and knows how to write documentation in Russian and English.
 
 Victor's primary focus for the last five years was developing and supporting services that automate the company's business processes. The services provided REST API for the front-end application (corporate admin or website) or communicated with external services (Amazon API, CDON API, Facebook API, etc.).
 
@@ -11,7 +11,7 @@ Victor developed several micro-services (GoLang and TypeScript) and one regular-
 
 Every service generally included infrastructure definition (AWS Cloud Formation templates or AWS CDK application) and pipeline to build, test and deploy the service to a staging or production environment. The services ran as AWS Lambda functions or docker containers in AWS Elastic Container Service.
 
-The applications communicate with other internal applications, AWS services, including S3 storage, DynamoDb database, Document DB database (alternative to MongoDb), Open Search (alternative to ElasticSearch), Cloud Front, SNS and SQS, and other external services, including payment and shipment solutions (Klarna, Adyen) and marketplaces (Facebook, Amazon, Google, CDON).
+The applications communicated with other internal applications, AWS services, including S3 storage, DynamoDb database, Document DB database (alternative to MongoDb), Open Search (alternative to ElasticSearch), Cloud Front, SNS and SQS, and other external services, including payment and shipment solutions (Klarna, Adyen) and marketplaces (Facebook, Amazon, Google, CDON).
 
 ### GoLang Overview
 
@@ -19,7 +19,7 @@ The company experimented with GoLang as a platform for future lambda functions a
 
 The company decided not to use GoLang for future development mainly for the following reasons.
 
-* It takes a lot of work for the company to hire qualified GoLang programmers.
+* It takes a lot of time for the company to hire qualified GoLang programmers.
 * It's difficult for the team to program using GoLang.
 * The company considered the risk of difficulties integrating the GoLang application with external services because of missing libraries.
 
@@ -41,8 +41,7 @@ The services have automated CI/CD pipelines and monitoring dashboards in AWS Clo
 
 Victor started supporting company infrastructure in the AWS Cloud with all resources created manually in the AWS Console. In five years, Victor completed the following DevOps tasks.
 
-Victor migrated all AWS resources to the CDK template. The same CDK template creates staging and production environments, allowing testing configuration changes on the staging.
-
+* Victor migrated all AWS resources to the CDK template. The same CDK template creates staging and production environments, allowing testing configuration changes.
 * Victor migrated all company websites from the EC2 instances to docker containers.
 * Victor developed CI/CD pipelines for the company applications.
 * Victor migrated the monolith application from PHP 5.5 to PHP 7.4.
