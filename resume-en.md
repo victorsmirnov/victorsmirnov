@@ -115,6 +115,7 @@ We developed the website http://www.jobinventory.com/, a spider application to e
 Data from 5 thousand sources was collected by the spider and processed four times per day.
 
 Other characteristics:
+
 * 5 million jobs in the index;
 * 2 million email messages per day;
 * 5 million subscribers;
